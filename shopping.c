@@ -1,5 +1,5 @@
 /* Raj Kapadia 
- * PID: 5704911
+ * 
  *
  *This Program is printing out a description for a number of items along with the item number;
  *the item count, the item description, item price and the extended price.
