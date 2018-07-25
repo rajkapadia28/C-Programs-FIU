@@ -1,6 +1,6 @@
 /*
  * Name: RAJ KAPADIA
- * PID: 5704911
+ * 
  * Description: This program creats multiple processes to identify prime numbers
  * from a given range 
  *
